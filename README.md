@@ -1,2 +1,2 @@
-# .github
+# Public readme file
 public readme
