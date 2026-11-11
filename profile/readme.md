@@ -28,7 +28,7 @@ We're sharing these tools because we like being helpful, not because we're offer
 ## 🚀 Getting started
 
 1. **Browse** the repository and find a tool that looks useful.
-2. **Read** its README or comments, and look through the code so you know what it does.
+2. **Read** its README or comments.
 3. **Try it safely** in a test environment first.
 4. **Back up** anything important before running it for real.
 
