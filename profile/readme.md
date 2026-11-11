@@ -16,7 +16,7 @@ Everything here is provided **as-is**. In practice, that means:
 
 - ✅ **It will likely work.** We build and use these tools ourselves, and we put in a good-faith, best-effort attempt to make them solid.
 - ⚠️ **It's not guaranteed.** Your environment, data, versions, and setup may differ from ours, and things can break in ways we haven't seen.
-- 🕐 **Support is best-effort.** We may not be able to answer every question or fix every issue, and we can't promise timelines.
+- 🕐 **Support is best-effort.** Issue are fixed at the contributors convenience, and we can't promise timelines.
 - 🔧 **Updates aren't promised.** Tools may change, be replaced, or be retired without notice.
 - 🧪 **Test before you trust.** Please try tools in a safe environment first, and always keep backups before running anything that changes data or systems.
 - 🙋 **You're in charge of how you use it.** You are responsible for reviewing the feature set and deciding whether it's right for your situation.
