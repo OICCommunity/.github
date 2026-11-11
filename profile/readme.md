@@ -38,6 +38,8 @@ We're sharing these tools because we like being helpful, not because we're offer
 
 Currently the content is provided as read-only with no feedback mechanism.
 
+None of the content shared here is covered by a support agreement and therefore raising tickets related to functionality or use of the tools is not allowed.
+
 ---
 
 ## 📜 Disclaimer
